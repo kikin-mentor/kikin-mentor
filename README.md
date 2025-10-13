@@ -27,3 +27,6 @@ Desarrollador web, entusiasta del open source y mentor de nuevos programadores.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+![Octocat](img/octo.gif)
