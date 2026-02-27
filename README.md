@@ -1,11 +1,6 @@
 # 👋 ¡Hola! Soy Kikin Mentor
 
-Desarrollador web, entusiasta del open source y mentor de nuevos programadores.
-
----
-## 🚀 Proyectos destacados
-- [App Web Python](https://github.com/kikin-mentor/mi_app)
-- [Curso de HTML + CSS3](https://github.com/kikin-mentor/web-course)
+Desarrollador web y entusiasta del open source.
 
 ---
 ## 🧰 Tecnologías y herramientas
