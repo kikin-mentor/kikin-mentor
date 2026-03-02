@@ -36,7 +36,3 @@ Desarrollador multidisciplinario con enfoque en la eficiencia y la compatibilida
 
 ---
 
-## 📞 Contacto
-* **Actitud:** Siempre dispuesto a ayudar y asumir nuevos retos con profesionalismo.
-
----
