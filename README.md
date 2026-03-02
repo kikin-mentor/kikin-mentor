@@ -11,9 +11,11 @@ Profesional dinámico con un fuerte sentido de la responsabilidad personal y cap
 Desarrollador multidisciplinario con enfoque en la eficiencia y la compatibilidad de tecnologías.
 
 ### Desarrollo y Programación
-* **Lenguajes:** Python, Java, C++.
-* **Frameworks/Librerías:** React, Vue.
-* **Especialidades:** Desarrollo de Interfaces y Gestión de Versiones (Git/GitHub).
+| Categoria | Herramienta |
+| :--- | :--- |
+| **Lenguajes** | Python, Java, C++. |
+| **Frameworks/Librerías** | React, Vue. |
+| **Especialidades** | Desarrollo de Interfaces y Gestión de Versiones (Git/GitHub). |
 
 ### Herramientas de Gestión
 * **Organización de Procesos:** Diseño y ejecución de flujos de trabajo optimizados.
