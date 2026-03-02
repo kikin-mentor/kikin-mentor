@@ -1,23 +1,42 @@
-# 👋 ¡Hola! Soy Kikin Mentor
+# ¡Hola! Soy Julio Enrique
 
-Desarrollador web y entusiasta del open source.
+# Ingeniería en TI e Innovación Digital
+
+## Resumen
+Profesional dinámico con un fuerte sentido de la responsabilidad personal y capacidad comprobada para adaptarse rápidamente a nuevos entornos tecnológicos. Cuento con experiencia en la colaboración estratégica de equipos y la resolución de problemas técnicos. Actualmente, me encuentro a menos de seis meses de titularme como TSU en Ingeniería de Tecnologías de la Información e Innovación Digital, respaldado por una participación activa en concursos y eventos del sector.
 
 ---
-## 🧰 Tecnologías y herramientas
 
-## 🌐 Front End
+## 🛠️ Stack Técnico e Informático
+Desarrollador multidisciplinario con enfoque en la eficiencia y la compatibilidad de tecnologías.
 
-![JSX](https://img.shields.io/badge/JSX-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+### Desarrollo y Programación
+* **Lenguajes:** Python, Java, C++.
+* **Frameworks/Librerías:** React, Vue.
+* **Especialidades:** Desarrollo de Interfaces y Gestión de Versiones (Git/GitHub).
 
-## ⚙️ Back End
+### Herramientas de Gestión
+* **Organización de Procesos:** Diseño y ejecución de flujos de trabajo optimizados.
+* **Productividad:** Manejo de software de oficina y herramientas de colaboración digital.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
+## 🚀 Habilidades Profesionales (Soft Skills)
+* **Gestión del Tiempo:** Experto en priorizar tareas para cumplir plazos estrictos sin comprometer la precisión.
+* **Trabajo en Equipo:** Colaborador meticuloso, capaz de brindar apoyo y orientación en entornos dinámicos.
+* **Comunicación:** Excelentes habilidades verbales y escritas orientadas al servicio al cliente.
+* **Adaptabilidad:** Actitud positiva y flexible ante cambios o nuevas responsabilidades para cumplir objetivos comunes.
 
+---
 
-![Octocat](img/octo.gif)
+## 🏆 Logros y Formación
+* **Educación:** Próximo TSU en Ingeniería de TI e Innovación Digital.
+* **Competencias:** Participante destacado en múltiples eventos y concursos tecnológicos.
+* **Compromiso:** Apasionado por el aprendizaje continuo y la mejora de procesos.
+
+---
+
+## 📞 Contacto
+* **Actitud:** Siempre dispuesto a ayudar y asumir nuevos retos con profesionalismo.
+
+---
