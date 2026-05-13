@@ -21,7 +21,7 @@
 <p align="center">
   <b>🌐 Frontend</b><br>
   <img src="https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=00c2ff">
-  <img src="https://img.shields.io/badge/CSS3-00c2ff?style=for-the-badge&logo=css3&logoColor=121011">
+  <img src="https://img.shields.io/badge/CSS3-00c2ff?style=for-the-badge&logo=css&logoColor=121011">
   <img src="https://img.shields.io/badge/Sass-121011?style=for-the-badge&logo=sass&logoColor=00c2ff">
   <img src="https://img.shields.io/badge/JavaScript-00c2ff?style=for-the-badge&logo=javascript&logoColor=121011">
   <img src="https://img.shields.io/badge/React-121011?style=for-the-badge&logo=react&logoColor=00c2ff">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Java-00c2ff?style=for-the-badge&logo=openjdk&logoColor=121011">
   <img src="https://img.shields.io/badge/C++-121011?style=for-the-badge&logo=c%2B%2B&logoColor=00c2ff">
   <img src="https://img.shields.io/badge/REST_API-00c2ff?style=for-the-badge&logo=platformdotsh&logoColor=121011">
-  <img src="https://img.shields.io/badge/Django-121011?style=for-the-badge&logo=platformdotsh&logoColor=00c2ff"> 
+  <img src="https://img.shields.io/badge/Django-121011?style=for-the-badge&logo=django&logoColor=00c2ff"> 
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/MySQL-00c2ff?style=for-the-badge&logo=mysql&logoColor=121011">
   <img src="https://img.shields.io/badge/PostgreSQL-121011?style=for-the-badge&logo=postgresql&logoColor=00c2ff">
   <img src="https://img.shields.io/badge/Render-00c2ff?style=for-the-badge&logo=render&logoColor=121011">
+  <img src="https://img.shields.io/badge/Docker-121011?style=for-the-badge&logo=docker&logoColor=00c2ff">
 </p>
 
 <p align="center">
