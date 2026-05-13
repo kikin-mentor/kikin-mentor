@@ -30,11 +30,12 @@
 
 <p align="center">
   <b>⚙️ Backend</b><br>
-  <img src="https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=00c2ff">
-  <img src="https://img.shields.io/badge/Python-00c2ff?style=for-the-badge&logo=python&logoColor=121011">
-  <img src="https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=openjdk&logoColor=00c2ff">
-  <img src="https://img.shields.io/badge/C++-00c2ff?style=for-the-badge&logo=c%2B%2B&logoColor=121011">
-  <img src="https://img.shields.io/badge/REST_API-121011?style=for-the-badge&logo=platformdotsh&logoColor=00c2ff">
+  <img src="https://img.shields.io/badge/Node.js-00c2ff?style=for-the-badge&logo=node.js&logoColor=121011">
+  <img src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=00c2ff">
+  <img src="https://img.shields.io/badge/Java-00c2ff?style=for-the-badge&logo=openjdk&logoColor=121011">
+  <img src="https://img.shields.io/badge/C++-121011?style=for-the-badge&logo=c%2B%2B&logoColor=00c2ff">
+  <img src="https://img.shields.io/badge/REST_API-00c2ff?style=for-the-badge&logo=platformdotsh&logoColor=121011">
+  <img src="https://img.shields.io/badge/Django-121011?style=for-the-badge&logo=platformdotsh&logoColor=00c2ff"> 
 </p>
 
 <p align="center">
