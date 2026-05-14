@@ -64,11 +64,14 @@
 
 <h2 align="center">🤝 Conectemos</h2>
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=00c2ff">
+  <a href="https://www.instagram.com/jul_x04?gsh=MWVkYW84dWt6NHJ4Zw==">
+    <img src="https://img.shields.io/badge/Instagram-121011?style=for-the-badge&logo=instagram&logoColor=00c2ff">
   </a>
   <a href="mailto:git.mentor.2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-00c2ff?style=for-the-badge&logo=gmail&logoColor=121011">
+  </a>
+  <a href="https://www.facebook.com/share/1Jc2YHu4Mo/">
+    <img src="https://img.shields.io/badge/Facebook-121011?style=for-the-badge&logo=facebook&logoColor=00c2ff">
   </a>
 </p>
 
