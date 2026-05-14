@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=80" width="100%" alt="Banner Superior">
+  <img src="./img/banner_kikin-mentor.png" width="100%" alt="Banner Julio Enrique">
 </p>
 
 <h1 align="center">⚡ Julio Enrique | IT Engineer & Digital Innovator</h1>
@@ -50,20 +50,31 @@
   <b>🤖 IA & DevOps</b><br>
   <img src="https://img.shields.io/badge/Ollama-121011?style=for-the-badge&logo=ollama&logoColor=00c2ff">
   <img src="https://img.shields.io/badge/Git-00c2ff?style=for-the-badge&logo=git&logoColor=121011">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=00c2ff">
 </p>
 
 ---
 
 <h2 align="center">🚀 Habilidades Profesionales</h2>
-
 <p align="center">
   ⏱️ <b>Gestión del Tiempo</b> | 👥 <b>Trabajo en Equipo</b> | 💬 <b>Comunicación</b> | 🧩 <b>Adaptabilidad</b>
 </p>
 
 ---
 
-<h2 align="center">🏆 Logros</h2>
+<h2 align="center">🤝 Conectemos</h2>
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=00c2ff">
+  </a>
+  <a href="mailto:TU_CORREO@EJEMPLO.COM">
+    <img src="https://img.shields.io/badge/Email-00c2ff?style=for-the-badge&logo=gmail&logoColor=121011">
+  </a>
+</p>
 
+---
+
+<h2 align="center">🏆 Logros</h2>
 <p align="center">
   🎓 <b>Educación:</b> Ingeniería de TI e Innovación Digital (TSU)<br>
   💻 <b>Competencias:</b> Participante destacado en eventos tecnológicos nacionales<br>
