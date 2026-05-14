@@ -67,7 +67,7 @@
   <a href="TU_LINK_DE_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=linkedin&logoColor=00c2ff">
   </a>
-  <a href="mailto:TU_CORREO@EJEMPLO.COM">
+  <a href="mailto:git.mentor.2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-00c2ff?style=for-the-badge&logo=gmail&logoColor=121011">
   </a>
 </p>
