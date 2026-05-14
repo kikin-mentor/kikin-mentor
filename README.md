@@ -50,7 +50,6 @@
   <b>🤖 IA & DevOps</b><br>
   <img src="https://img.shields.io/badge/Ollama-121011?style=for-the-badge&logo=ollama&logoColor=00c2ff">
   <img src="https://img.shields.io/badge/Git-00c2ff?style=for-the-badge&logo=git&logoColor=121011">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=00c2ff">
 </p>
 
 ---
