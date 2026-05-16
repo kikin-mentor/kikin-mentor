@@ -60,6 +60,10 @@
   ⏱️ <b>Gestión del Tiempo</b> | 👥 <b>Trabajo en Equipo</b> | 💬 <b>Comunicación</b> | 🧩 <b>Adaptabilidad</b>
 </p>
 
+<p align="center">
+  <img src="./img/luna-crunchycat.gif" width="240px">
+</p>
+
 ---
 
 <h2 align="center">🤝 Conectemos</h2>
